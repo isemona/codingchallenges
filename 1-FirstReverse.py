@@ -1,6 +1,6 @@
 # https://www.coderbyte.com/editor/First%20Reverse:Python#
 
-#Difficulty - Easy
+# Difficulty - Easy
 
 def FirstReverse(str): 
 	# no built in reverse functions for strings

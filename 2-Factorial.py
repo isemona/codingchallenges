@@ -1,8 +1,8 @@
-#https://www.coderbyte.com/editor/First%20Reverse:Python#
+# https://www.coderbyte.com/editor/First%20Reverse:Python#
 
-#Difficulty - Easy
+# Difficulty - Easy
 
-#Recursion!
+# Recursion!
 
 def FirstFactorial(num): 
     if num == 1:

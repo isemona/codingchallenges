@@ -1,6 +1,8 @@
 # https://www.coderbyte.com/information/Longest%20Word
+
 # Difficulty - Easy
-# implemented enumerate
+
+# Implemented enumerate
 
 def LongestWord(sen): 
     i = 0
